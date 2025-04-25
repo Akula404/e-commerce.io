@@ -1,5 +1,5 @@
 CREATE DATABASE ecommerce_db;
-USE DATABASE ecommerce_db;
+USE ecommerce_db;
 
 -- 1. brand
 CREATE TABLE brand (
